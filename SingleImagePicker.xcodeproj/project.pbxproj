@@ -523,6 +523,7 @@
 				C8419A821CEEEEE40054EF0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C8419A831CEEEEE40054EF0A /* Build configuration list for PBXNativeTarget "SingleImagePickerTests" */ = {
 			isa = XCConfigurationList;
@@ -531,6 +532,7 @@
 				C8419A851CEEEEE40054EF0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C8419A861CEEEEE40054EF0A /* Build configuration list for PBXNativeTarget "SingleImagePickerUITests" */ = {
 			isa = XCConfigurationList;
@@ -539,6 +541,7 @@
 				C8419A881CEEEEE40054EF0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
